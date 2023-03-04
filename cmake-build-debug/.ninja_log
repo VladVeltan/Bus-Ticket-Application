@@ -1,0 +1,17 @@
+# ninja log v5
+23	376	6738004225471053	CMakeFiles/lab910.dir/Repo/IRepo.cpp.obj	5918f7ffdeb6e2f7
+39	712	6750057091574394	CMakeFiles/lab910.dir/Money/Money.cpp.obj	e986aecebac3e0df
+23	1209	6864187591205690	CMakeFiles/lab910.dir/Service/Service.cpp.obj	dd35cca515210651
+1	130	6742360895287165	build.ninja	73e37c73abe8b57c
+6	819	6864187587372433	CMakeFiles/lab910.dir/main.cpp.obj	ef27142f776325a
+15	923	6864187588401458	CMakeFiles/lab910.dir/Tests/Tests.cpp.obj	2a53b4c1773fd304
+31	1268	6864187591805990	CMakeFiles/lab910.dir/UI/UI.cpp.obj	745e5dc877d88994
+1268	1633	6864187595498712	lab910.exe	837906acae0a96b
+21	555	6746786131174191	CMakeFiles/lab910.dir/Bilet/Bilet.cpp.obj	a4bb65f48fd202dd
+62	730	6864187586492216	CMakeFiles/lab910.dir/ValidatorMoney/ValidatorMoney.cpp.obj	5393c44e8f6155dc
+14	455	6738004226275885	CMakeFiles/lab910.dir/Repo/RepoInMemory.cpp.obj	64b6d95882a1be69
+5	673	6746799098772003	CMakeFiles/lab910.dir/Repo/RepoInFile.cpp.obj	f72b43b62d6b9820
+41	884	6864187588001340	CMakeFiles/lab910.dir/Repo/RepoMoney.cpp.obj	e2d9cfc6bbfc9a11
+51	668	6864187585852038	CMakeFiles/lab910.dir/ValidatorBilete/ValidatorBilete.cpp.obj	aa0533b964bb957b
+7	866	6979378429670374	CMakeFiles/lab910.dir/Repo/RepoMoney.cpp.obj	e2d9cfc6bbfc9a11
+866	1280	6979378433777486	lab910.exe	837906acae0a96b

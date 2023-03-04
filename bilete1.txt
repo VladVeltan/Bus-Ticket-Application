@@ -1,0 +1,6 @@
+1 CJ-SB Luni 24 2
+2 BT-SB Marti 54 4
+3 CJ-AB Vineri 34 6
+4 AB-B Vineri 95 7
+5 BT-SB Miercuri 54 8
+9 SBJ-B Luni 123 3
